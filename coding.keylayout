@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-01-03 at 16:08 (CET)-->
+<!--Last edited by Ukelele version 359 on 2023-02-02 at 08:34 (CET)-->
 <keyboard group="126" id="-28010" name="Tim Pavone Programming Layout" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="2a4" modifiers="19c"/>
@@ -1884,7 +1884,7 @@
             <when state="3" output="Ǟ"/>
         </action>
         <action id="a128">
-            <when state="none" output="]"/>
+            <when state="none" output=")"/>
             <when state="14" output="Ö᪷"/>
             <when state="18" output="∉"/>
             <when state="3" output="Ȫ"/>
@@ -1901,7 +1901,7 @@
             <when state="7" output="⁰"/>
         </action>
         <action id="a130">
-            <when state="none" output=")"/>
+            <when state="none" output="]"/>
             <when state="18" output="∦"/>
             <when state="2" output="Ǚ"/>
             <when state="3" output="Ǖ"/>
@@ -1919,13 +1919,13 @@
             <when state="3" output="ǟ"/>
         </action>
         <action id="a133">
-            <when state="none" output="["/>
+            <when state="none" output="("/>
             <when state="14" output="ö᪷"/>
             <when state="18" output="∈"/>
             <when state="3" output="ȫ"/>
         </action>
         <action id="a134">
-            <when state="none" output="("/>
+            <when state="none" output="["/>
             <when state="18" output="∥"/>
             <when state="2" output="ǚ"/>
             <when state="3" output="ǖ"/>
