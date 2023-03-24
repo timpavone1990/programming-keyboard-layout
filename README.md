@@ -1,6 +1,6 @@
-# Coding Keyboard Layout
+# Programming Keyboard Layout
 
-Keyboard Layout for macOs that is based on the German standard layout but repositions some special characters.
+Keyboard Layout for macOS that is based on the German standard layout but repositions some characters.
 It is meant to ease programming.
 
 The following charachters have been repositioned:
