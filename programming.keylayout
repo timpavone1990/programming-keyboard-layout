@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-03-24 at 14:12 (CET)-->
+<!--Last edited by Ukelele version 359 on 2023-03-27 at 15:27 (CEST)-->
 <keyboard group="126" id="-28010" name="Tim Pavone's Programming Keyboard Layout" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="2a4" modifiers="19c"/>
@@ -2460,7 +2460,7 @@
             <when state="16" output="‗"/>
         </action>
         <action id="a59">
-            <when state="none" next="9"/>
+            <when state="none" next="1"/>
         </action>
         <action id="a6">
             <when state="none" output=")"/>
@@ -2614,7 +2614,7 @@
             <when state="18" output="ⓩ"/>
         </action>
         <action id="a84">
-            <when state="none" next="1"/>
+            <when state="none" next="9"/>
         </action>
         <action id="a85">
             <when state="none" next="8"/>
@@ -2769,7 +2769,7 @@
         </action>
     </actions>
     <terminators>
-        <when state="1" output="´"/>
+        <when state="1" output="`"/>
         <when state="10" output="-"/>
         <when state="11" output="˙"/>
         <when state="12" output="¨"/>
@@ -2788,6 +2788,6 @@
         <when state="6" output="~"/>
         <when state="7" output="ˀ"/>
         <when state="8" output="˝"/>
-        <when state="9" output="`"/>
+        <when state="9" output="´"/>
     </terminators>
 </keyboard>
